@@ -9,7 +9,7 @@ Tenho mais de 10 anos de marketing digital, com projetos em 30+ nichos e 30+ pa�
 - **Tráfego pago:** Google Ads, Meta Ads e LinkedIn Ads
 - **Rastreamento avançado:** GTM (web + server-side), GA4, Meta Conversions API, Stape.io e Cloudflare Workers
 - **Automação e IA:** fluxos n8n, agentes SDR no WhatsApp, integrações com CRM, Supabase
-- **MCPs próprios:** servidores MCP para Meta Ads, Google Tag Manager, GA4 e LinkedIn Ads, com guardrails
+- **MCPs próprios:** servidores MCP para Meta Ads, Google Tag Manager, GA4 e LinkedIn Ads, com guardrails, disponíveis para os alunos do [Dominando o Rastreamento](https://andrericardobraga.com.br/traqueamento-avancado)
 - **Landing pages:** sites e LPs com React/TypeScript (Lovable) integrados ao rastreamento
 
 ### 🧰 Stack
